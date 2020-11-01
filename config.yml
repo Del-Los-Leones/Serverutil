@@ -1,0 +1,3 @@
+message: "자동 재부팅까지 %time%분 남았습니다."
+interval: 60
+mob-interval: 10
